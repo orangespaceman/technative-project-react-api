@@ -1,6 +1,6 @@
-# Project 3 - example backend
+# React Project - example backend
 
-This is an example backend API for project 3.
+This is an example backend API for the React project.
 
 It allows users to register, log in, and manage their collections of things.
 
